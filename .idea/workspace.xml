@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="338ee778-036c-438c-b331-03b8110f290b" name="Default Changelist" comment="" />
+    <list default="true" id="e11b4508-c182-4d5b-bed0-0039e9ca6fe3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/powp-rhymers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/FIFORhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/FIFORhymer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/HanoiRhymer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/kis/vh/nursery/HanoiRhymer.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
